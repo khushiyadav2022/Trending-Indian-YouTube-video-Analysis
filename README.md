@@ -8,7 +8,7 @@ The dataset for YouTube trending videos analysis consists of a comprehensive col
 - The dataset contains 37,352 rows and 16 columns.
 - The only column with null values (561) is the "description" column.
 
-[Dataset link](https://www.kaggle.com/datasnaek/youtube-new 334)<br>
+[Dataset link](https://www.kaggle.com/datasnaek/youtube-new334)<br>
 [Notebook](https://github.com/khushiyadav2022/Trending-Indian-YouTube-video-Analysis/blob/369abee801831f7eb5f3c90ce5f1ccb19040baba/trending-youtube-video-analysis-in-india.ipynb)
 
 # Task:
